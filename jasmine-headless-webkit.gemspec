@@ -21,7 +21,6 @@ Gem::Specification.new do |s|
   s.require_paths = ["lib"]
 
   s.add_runtime_dependency 'jasmine-core'
-  s.add_runtime_dependency 'coffee-script'
   s.add_runtime_dependency 'rainbow'
   s.add_runtime_dependency 'multi_json', '>= 1.2.0'
   s.add_runtime_dependency 'sprockets'
